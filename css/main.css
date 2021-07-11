@@ -251,6 +251,19 @@ header{
     color: #000;
 }
 
+table{
+    width: 100%;
+    font-size: 17px;
+    font-family: Calibri;
+    background: linear-gradient(to bottom,#fffcff,#d5fefd8f);
+}
+
+table,th,td{
+    border: solid 1px #DDD;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align:center;
+}
 
 
 
@@ -274,6 +287,7 @@ header{
        (min-resolution: 120dpi) {
 
 }
+
 
 /* ==========================================================================
    Helper classes
