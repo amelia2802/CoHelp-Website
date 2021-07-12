@@ -1,3 +1,4 @@
+branch
 <!doctype html>
 <html class="no-js" lang="">
     <head>
@@ -12,6 +13,21 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
+
+        <!--Chat-Bot Installation-->
+        <!--Start of Tawk.to Script-->
+        <script type="text/javascript">
+          var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+          (function(){
+          var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+          s1.async=true;
+          s1.src='https://embed.tawk.to/60ea9696649e0a0a5ccb9987/1faa5ofm1';
+          s1.charset='UTF-8';
+          s1.setAttribute('crossorigin','*');
+          s0.parentNode.insertBefore(s1,s0);
+          })();
+          </script>
+          <!--End of Tawk.to Script-->
     </head>
     <body>
 
@@ -104,7 +120,7 @@
               <div class="card-body">
                 <h5 class="card-title">Covid Hospitals</h5>
                 <p class="card-text">Search your nearest covid hospitals in one click!</p>
-                <button type="button" class="btn btn-outline-secondary">Click Here</button>
+                <button type="button" class="btn btn-outline-secondary" onclick="document.location='hospital.html'">Click Here</button>
               </div>
             </div>
             <div class="card">
@@ -112,17 +128,9 @@
               <div class="card-body">
                 <h5 class="card-title">Non Governmental Organizations</h5>
                 <p class="card-text">There is no big thing than your health.</p>
-                <button type="button" class="btn btn-outline-success">Click Here</button>
+                <button type="button" class="btn btn-outline-success" onclick="document.location='ngo.html'">Click Here</button>
               </div>
             </div>
-            <div class="card">
-              <img src="img/blood.jpg" class="card-img-top">
-              <div class="card-body">
-                <h5 class="card-title">Blood Banks</h5>
-                <p class="card-text">Feel better, feel fitter,
-                    Donate blood and make it matter </p>
-                    <button type="button" class="btn btn-outline-warning">Click Here</button>
-              </div>
             </div>
         </div>
 
@@ -141,7 +149,6 @@
                         <ul>
                             <li><a href="hospital.html" class="active">Hospitals</a></li>
                             <li><a href="ngo.html">NGOs</a></li>
-                            <li><a href="#">Blood Banks</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -160,3 +167,6 @@
         <script src="js/main.js"></script>
     </body>
 </html>
+
+
+main
