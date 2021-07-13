@@ -7,6 +7,7 @@ It describes the essentials one need to fight against COVID-19.
 
  ## Usage
 It's uses are to find NGOs,Hospitals and other essential Informations.
+Visit our website here: https://amelia2802.github.io/CoHelp-Website/index.html
 
 
 ### Resources
