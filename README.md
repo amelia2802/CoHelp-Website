@@ -1,18 +1,16 @@
 # CoHelp-Website
 ## Demo
+It describes the essentials one need to fight against COVID-19.
 
 
 
-[Write a Short Desc about CoHelp]
 
  ## Usage
-[Write the usage of the application]
+It's uses are to find NGOs,Hospitals and other essential Informations.
 
-## Installation 
-[Write how to use & intall the CoHelp app]
 
 ### Resources
-[Write the resources link]
+Covid19India.org,Hospitals.json,NGOs.json,ourworldindata.org,www.mohfw.gov.in
  
   ## Tech/framework used
   #### Built with
