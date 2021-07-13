@@ -1,13 +1,18 @@
 # CoHelp-Website
-# Passenger-counter
 ## Demo
 
 
 
-about cohelp
+[Write a Short Desc about CoHelp]
 
  ## Usage
- This app is made with the basic JavaScript , HTML and CSS.
+[Write the usage of the application]
+
+## Installation 
+[Write how to use & intall the CoHelp app]
+
+### Resources
+[Write the resources link]
  
   ## Tech/framework used
   #### Built with
