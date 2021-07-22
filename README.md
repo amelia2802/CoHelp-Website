@@ -1,6 +1,6 @@
 # CoHelp-Website
 ## Demo
-It describes the essentials one need to fight against COVID-19.
+CoHelp is an app completely based on relevant things and data that are related in order to put up a fight against COVID-19. Relevant information like Hospitals & NGOs that currently give Corona vaccine and treats Corona Patients across the Country, Total count of infected people, Total count of recovered people, we tried to put together every relevant information under one umbrella so people can access all the data related to COVID-19 under one umbrella.
 
 
 
